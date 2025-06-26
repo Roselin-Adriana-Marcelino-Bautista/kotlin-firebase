@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BD</string>
+    <string name="base_de_datos_con_kotlin">Base De Datos Con Kotlin</string>
+    <string name="insertar_datos">Insertar Datos</string>
+    <string name="consultar_datos">Consultar Datos</string>
+    <string name="ingresa_el_nombre">Ingresa El Nombre</string>
+    <string name="ingresa_la_edad">Ingresa La Edad</string>
+    <string name="ingresa_el_sueldo">Ingresa El Sueldo</string>
+    <string name="guardar">Guardar</string>
+    <string name="ingresa_el_nombre1">Ingresa El Nombre</string>
+    <string name="cargando_datos">Cargando Datos</string>
+    <string name="actualizar_nombre">Actualizar Nombre</string>
+    <string name="actaulizar_edad">Actaulizar Edad</string>
+    <string name="actualizar_salario">Actualizar Salario</string>
+    <string name="actualizar_datos">Actualizar Datos</string>
+</resources>
